@@ -9,7 +9,7 @@ body{
      /* font-family: 'Ubuntu', sans-serif; */
     }
 .header{
-    height: 400px;
+    height: 600px;
     width: 100vw;
     background-image:url("img/bg-pattern-intro-desktop.svg");
     background-size: 200%;
@@ -224,17 +224,17 @@ ul li:hover ul.dropdown{
     color: #fff;
 }
 .foot{
-    margin-top: 60px;
+    margin-top:60px;
 }
 footer.img{
     margin-top:0px !important;
 }
 .ab{
-    margin-top: 60px;
+    margin-top:60px;
 }
 .footer li a{
-    text-decoration: none;
-    color: #fff;
+    text-decoration:none;
+    color:#fff;
 }
 
 
