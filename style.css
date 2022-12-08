@@ -224,12 +224,18 @@ ul li:hover ul.dropdown{
     color: #fff;
 }
 .foot{
-    margin-top: 50px;
+    margin-top: 60px;
 }
 footer.img{
     margin-top:0px !important;
 }
-
+.ab{
+    margin-top: 60px;
+}
+.footer li a{
+    text-decoration: none;
+    color: #fff;
+}
 
 
 
